@@ -59,7 +59,7 @@ The objective of this model is to accurately recognize and classify various reha
 ### 📁 File Overview
 
 - `fig1.jpeg`: Architecture of the Rehab Transformer (RT)
-- `knowledge_distillation_diagram.png`: Overview of the teacher–student distillation process (you can update or generate this image)
+- `fig2.png`: Overview of the teacher–student distillation process 
 
 ---
 
