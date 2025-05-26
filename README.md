@@ -46,8 +46,6 @@ To optimize the model for deployment on lightweight platforms, **Knowledge Disti
 
 ![Knowledge Distillation Diagram](./Knowledge Distillation.png)
 
-> 🔧 *Please replace `knowledge_distillation_diagram.png` with your actual diagram if different.*
-
 ---
 
 ### 🎯 Objective
@@ -58,8 +56,8 @@ The objective of this model is to accurately recognize and classify various reha
 
 ### 📁 File Overview
 
-- `fig1.jpeg`: Architecture of the Rehab Transformer (RT)
-- `fig2.png`: Overview of the teacher–student distillation process 
+- `Rehab_Transformer.jpeg`: Architecture of the Rehab Transformer (RT)
+- `Knowledge Distillation.png`: Overview of the teacher–student distillation process 
 
 ---
 # References
