@@ -62,4 +62,15 @@ The objective of this model is to accurately recognize and classify various reha
 - `fig2.png`: Overview of the teacher–student distillation process 
 
 ---
+# References
 
+- Hinton et al., "Distilling the Knowledge in a Neural Network", 2015.
+- Keras Knowledge Distillation Example
+- PyTorch Tutorials
+
+---
+
+## Developer
+
+Samar Essa  
+GitHub: [@samarEssa](https://github.com/samarEssa)
