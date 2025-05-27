@@ -45,6 +45,11 @@ The architecture consists of the following components:
 To optimize the model for deployment on lightweight platforms, **Knowledge Distillation** is used. A **Teacher model** with high capacity is trained first, and its outputs are then used to supervise the training of a **Student model**, which is faster and more efficient.
 
 ![Knowledge Distillation Diagram](./Knowledge Distillation.png)
+<<<<<<< HEAD:README.md
+=======
+
+
+>>>>>>> 4c3ce69 (Update README and remove some images):README.md 
 
 ---
 
@@ -56,10 +61,17 @@ The objective of this model is to accurately recognize and classify various reha
 
 ### 📁 File Overview
 
+<<<<<<< HEAD:README.md
 - `Rehab_Transformer.jpeg`: Architecture of the Rehab Transformer (RT)
 - `Knowledge Distillation.png`: Overview of the teacher–student distillation process 
 
 ---
+=======
+- `RehabـTransformer.jpeg`: Architecture of the Rehab Transformer (RT)
+- `Knowledge Distillation.png`: Overview of the teacher–student distillation process 
+---
+
+>>>>>>> 4c3ce69 (Update README and remove some images):README.md 
 # References
 
 - Hinton et al., "Distilling the Knowledge in a Neural Network", 2015.
