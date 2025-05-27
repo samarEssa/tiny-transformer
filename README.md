@@ -16,7 +16,7 @@ The model is trained on **SPARS9x**, a rich multi-sensor dataset that contains i
 
 The following diagram illustrates the core Rehab Transformer model:
 
-![Rehab Transformer Architecture](./RehabـTransformer.jpeg)
+![Rehab Transformer Architecture](RehabـTransformer.jpeg)
 
 The architecture consists of the following components:
 
@@ -44,7 +44,7 @@ The architecture consists of the following components:
 
 To optimize the model for deployment on lightweight platforms, **Knowledge Distillation** is used. A **Teacher model** with high capacity is trained first, and its outputs are then used to supervise the training of a **Student model**, which is faster and more efficient.
 
-![Knowledge Distillation Diagram](./Knowledge Distillation.png)
+![Knowledge Distillation Diagram](Knowledge Distillation.png)
 
 ---
 
